@@ -1,0 +1,26 @@
+{
+  "name": "woodshed_fe",
+  "version": "1.0.0",
+  "description": "Front End WoodShed Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfletch/woodshed_fe.git"
+  },
+  "keywords": [
+    "Meow"
+  ],
+  "author": "Warren Fletcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfletch/woodshed_fe/issues"
+  },
+  "homepage": "https://github.com/wfletch/woodshed_fe#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "react": "^17.0.2"
+  }
+}
