@@ -2,7 +2,7 @@
   "name": "woodshed_fe",
   "version": "1.0.0",
   "description": "Front End WoodShed Components",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,5 +28,6 @@
     "react-router": "^6.2.2",
     "react-router-dom": "^6.2.2",
     "web-vitals": "^2.1.4"
-  }
+  },
+  "devDependencies": {}
 }
